@@ -1,1 +1,19 @@
+# Compiled Java classes
+*.class
+
+# Build output
+bin/
+
+# Logs
+*.log
+
+# VS Code
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
