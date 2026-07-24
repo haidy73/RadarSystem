@@ -1,0 +1,70 @@
+[
+  {
+    "radarId": "RADAR-001",
+    "location": "6th of October Bridge - Northbound",
+    "timestamp": "2026-07-24T14:35:21Z",
+    "vehicle": {
+      "plateNum": "ABC1234",
+      "type": "CAR"
+    },
+    "violations": [
+      {
+        "type": "SPEEDING",
+        "description": "Speed of 94 km/h exceeded the maximum allowed speed of 80 km/h."
+      },
+      {
+        "type": "NO_SEATBELT",
+        "description": "Driver was not wearing a seatbelt."
+      }
+    ]
+  },
+  {
+    "radarId": "RADAR-002",
+    "location": "Ring Road - Eastbound",
+    "timestamp": "2026-07-24T15:02:44Z",
+    "vehicle": {
+      "plateNum": "XYZ5678",
+      "type": "TRUCK"
+    },
+    "violations": [
+      {
+        "type": "USING_PHONE",
+        "description": "Driver was using a mobile phone while driving."
+      }
+    ]
+  },
+  {
+    "radarId": "RADAR-001",
+    "location": "6th of October Bridge - Northbound",
+    "timestamp": "2026-07-24T15:10:08Z",
+    "vehicle": {
+      "plateNum": "LMN9012",
+      "type": "BUS"
+    },
+    "violations": [
+      {
+        "type": "RED_LIGHT",
+        "description": "Vehicle crossed the intersection after the traffic signal turned red."
+      },
+      {
+        "type": "NO_SEATBELT",
+        "description": "Driver was not wearing a seatbelt."
+      }
+    ]
+  },
+  {
+    "radarId": "RADAR-001",
+    "location": "6th of October Bridge - Northbound",
+    "timestamp": "2026-05-24T15:10:08Z",
+    "vehicle": {
+      "plateNum": "LMN9012",
+      "type": "BUS"
+    },
+    "violations": [
+      {
+        "type": "NO_SEATBELT",
+        "description": "Driver was not wearing a seatbelt."
+      }
+    ]
+  }
+]
